@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Semana2</string>
+    <string name="titulo">Formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="fecha">Fecha</string>
+    <string name="telefono">Telefono</string>
+    <string name="mail">Mail</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="btnsiguiente">Siguiente</string>
+    <string name="titulo2">Confirmar Datos</string>
+    <string name="btnEdit">Editar</string>
+
+
+</resources>
